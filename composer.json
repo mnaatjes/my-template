@@ -9,8 +9,8 @@
     },
     "repositories": [
         {
-            "type": "composer",
-            "url": "file:///var/www/packages/myProjectContainer/packages.json"
+            "type": "git",
+            "url": "https://github.com/mnaatjes/my-framework.git"
         }
     ]
 }

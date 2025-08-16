@@ -5,6 +5,6 @@
     "license": "MIT",
     "require": {
         "php": ">=8.0",
-        "my-vendor/my-framework": "@dev"
+        "mnaatjes/my-framework": "@dev"
     }
 }

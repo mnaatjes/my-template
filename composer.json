@@ -1,0 +1,10 @@
+{
+    "name": "mnaatjes/my-template",
+    "description": "My Framework skeleton application.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "my-vendor/my-framework": "@dev"
+    }
+}

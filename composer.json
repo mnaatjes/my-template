@@ -6,5 +6,11 @@
     "require": {
         "php": ">=8.0",
         "mnaatjes/my-framework": "@dev"
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "file:///var/www/packages/myProjectContainer/packages.json"
+        }
+    ]
 }
